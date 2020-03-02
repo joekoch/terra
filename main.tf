@@ -1,5 +1,5 @@
 provider "docker" {
-  version = "~> 2.6"
+  version = "~> 2.7"
   host = "npipe:////.//pipe//docker_engine"
 }
 
